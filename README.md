@@ -11,6 +11,9 @@ Junior Data Analyst с академическим и проектным опыт
 
 ### Связаться со мной:
 
-[![Alt text](https://github-production-user-asset-6210df.s3.amazonaws.com/44256177/248284964-0fbd854a-c920-400d-a623-f26f4eb3cbe7.png)](https://t.me/ddegt)        [![Alt_text](https://github.com/Dejetins/Dejetins/assets/44256177/b37b05d0-dda6-4a1c-a65d-98e3ebdeb65a)](mailto:dejetins@gmail.com)
+[![Alt text](https://github-production-user-asset-6210df.s3.amazonaws.com/44256177/248284964-0fbd854a-c920-400d-a623-f26f4eb3cbe7.png)](https://t.me/ddegt) 
+                        
+[Or send email](mailto:dejetins@gmail.com)
+
 
 
